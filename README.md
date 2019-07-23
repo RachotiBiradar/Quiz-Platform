@@ -1,1 +1,1 @@
-# Quiz-Platform
+# code quizzers
